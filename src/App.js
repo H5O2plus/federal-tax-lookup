@@ -1587,6 +1587,7 @@ const App = () => {
           <span style={{ color: "red" }}>No matching inputs found in table</span>
         )}
       </p>
+      <p>Source code available <a href="https://github.com/H5O2plus/federal-tax-lookup">on GitHub</a>.</p>
     </div>
   );
 };
